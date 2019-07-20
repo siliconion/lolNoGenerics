@@ -1,4 +1,4 @@
-# lolNoGenerics
+# lol No Generics
 
 My notes of learning go. 
 Really it's so I can sync between machines. Currently following https://tour.golang.org/list

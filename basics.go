@@ -15,6 +15,10 @@ func main() {
 
 	var i int
 	fmt.Println("var i int if not assigned is zero value: ", i)
+	var i1 int = 1
+	var i2 = 1
+	i3 := 3
+	fmt.Println("many ways to declare", i1, i2, i3)
 	var j, k int = 1, 2
 	fmt.Println("var j, k int = 1, 2, values are assigned: ", j, k)
 	l, m, n := 3, true, "lol"
